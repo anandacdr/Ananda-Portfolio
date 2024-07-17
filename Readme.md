@@ -28,7 +28,7 @@ Or, install PIP
 
 - `python -m ensurepip --upgrade`
 
-# alternatively
+ alternatively
 - `python -m pip install --upgrade pip`
 
 
